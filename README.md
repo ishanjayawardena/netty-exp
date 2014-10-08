@@ -5,11 +5,11 @@ Netty based experiements
 
 How to build
 ------------
-maven clean install
+<code>maven clean install</code>
 
 How to run DiscardServer
 ------------------------
-java -jar target/netty-tutorial-1.0-SNAPSHOT-jar-with-dependencies.jar [port]
+<code>java -jar target/netty-tutorial-1.0-SNAPSHOT-jar-with-dependencies.jar [port]</code>
 
 How to send a request to DiscardServer
 --------------------------------------
