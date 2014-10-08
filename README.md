@@ -3,7 +3,8 @@ netty-exp
 
 Netty based experiements<br/>
 Sources:<br/>
-http://netty.io/wiki/user-guide-for-5.x.html
+http://netty.io/wiki/user-guide-for-5.x.html<br/>
+http://seeallhearall.blogspot.com/2012/05/netty-tutorial-part-1-introduction-to.html
 
 How to build
 ------------
