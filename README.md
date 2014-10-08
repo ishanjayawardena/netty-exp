@@ -2,6 +2,7 @@ netty-exp
 =========
 
 Netty based experiements
+Source: http://netty.io/wiki/user-guide-for-5.x.html
 
 How to build
 ------------
